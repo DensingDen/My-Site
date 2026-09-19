@@ -28,6 +28,7 @@ p{
     font-family: 'Courier New', Courier, monospace;
 }
 
-.conteiner{
+.container{
     display: flex;
+
 }
