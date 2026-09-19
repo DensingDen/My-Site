@@ -1,0 +1,33 @@
+body{
+    background-color: #999999;
+    background-image: url("../img/Back.png");
+    justify-content: center;
+}
+
+header img{
+    background-color: #afa959;
+    padding: 5px;
+    box-shadow: 6px 6px #303030;
+}
+
+nav{
+    background-color: #707070;
+    margin: 5px;
+    box-shadow: 6px 6px #303030;
+    padding: 5px;
+    height: fit-content;
+    width: fit-content;
+}
+
+p{
+    margin: 5px;
+}
+
+.nav_buttons{
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.conteiner{
+    display: flex;
+}
